@@ -3,7 +3,7 @@
 INTRODUCTION
 
 A project which plays 1330 thirukural and user defined audio files based on web according to the scheduled time and predefined audios in the database , also using bcd switch inputs and schedules done by user
-```Languages Used : Html,css,js,php,mysql and python```
+```Languages Used : Html,css,js,php,mysql and python for automation```
 
 FEATURES
 ```
